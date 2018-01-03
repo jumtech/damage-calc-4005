@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-01-03T12:51:47" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="#effectiveDamage()" timestamp="2018-01-03T12:51:47" tests="5" file="/home/ubuntu/workspace/session_04/damage-calc-4005/test/test.js" failures="0" time="0">
+    <testcase name="#effectiveDamage() 正常なダメージ計算ができる" time="0" classname="正常なダメージ計算ができる">
+    </testcase>
+    <testcase name="#effectiveDamage() 負の異常値におけるダメージ計算ができる" time="0" classname="負の異常値におけるダメージ計算ができる">
+    </testcase>
+    <testcase name="#effectiveDamage() 2000より大きい異常値におけるダメージ計算ができる" time="0" classname="2000より大きい異常値におけるダメージ計算ができる">
+    </testcase>
+    <testcase name="#effectiveDamage() 実効防御力は0未満にならない" time="0" classname="実効防御力は0未満にならない">
+    </testcase>
+    <testcase name="#effectiveDamage() ダメージは小数点以下を四捨五入して整数にする" time="0" classname="ダメージは小数点以下を四捨五入して整数にする">
+    </testcase>
+  </testsuite>
+</testsuites>
